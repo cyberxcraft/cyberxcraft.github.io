@@ -1,0 +1,45 @@
+body{
+ background:#36454F;
+ margin: 0px;
+ padding: 0px;
+ }
+
+a{
+	color: #000000;
+	text-decoration: none;
+}
+
+ header{
+ 	background:#ffff ;
+ 	height: 130px;
+ } 
+
+ #left-nav{
+ 	float: left;
+ }
+ 
+img {
+	max-width: 30%;
+	max-height: 30%;
+	border-radius:50%;
+}
+
+ #right-nav{
+float: right;
+ }
+
+#right-nav li{
+display: inline-block;
+margin: 10px;
+}
+
+footer{
+	clear: both;
+	background:#ffff;
+	margin-top: 30px;
+	text-align: center;
+	padding: 10px;
+	color: #000000;
+}
+
+
